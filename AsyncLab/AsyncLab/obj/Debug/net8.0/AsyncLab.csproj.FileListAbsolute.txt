@@ -1,0 +1,15 @@
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\bin\Debug\net8.0\AsyncLab.exe
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\bin\Debug\net8.0\AsyncLab.deps.json
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\bin\Debug\net8.0\AsyncLab.runtimeconfig.json
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\bin\Debug\net8.0\AsyncLab.dll
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\bin\Debug\net8.0\AsyncLab.pdb
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\AsyncLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\AsyncLab.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\AsyncLab.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\AsyncLab.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\AsyncLab.sourcelink.json
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\AsyncLab.dll
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\refint\AsyncLab.dll
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\AsyncLab.pdb
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\AsyncLab.genruntimeconfig.cache
+C:\Users\labsfiap\Desktop\AsyncLab\AsyncLab\obj\Debug\net8.0\ref\AsyncLab.dll
